@@ -14,7 +14,7 @@
         $i++;
     }
     echo "<script> console.log('création des mauvais') </script>";
-//sfkjhsofhqosfnwosfnwosfkcn
+
     $i = 0;
     while($i < 100){
         $resentfull[$i] = new Special('r'. $i, 20, true);
