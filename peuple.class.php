@@ -6,7 +6,7 @@
             
         }
     }
-
+// ceci est un commentaire
     class Individu{
         protected $id;
         protected $richess;
