@@ -7,7 +7,7 @@
         $i++;
     }
     echo "<script> console.log('création des bons') </script>";
-
+//blablablabla
     $i = 0;
     while($i < 100){
         $bad[$i] = new Individu('b'. $i, 20, false);
