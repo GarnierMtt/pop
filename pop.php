@@ -21,7 +21,7 @@
         $i++;
     }
     echo "<script> console.log('création des rencuniers') </script>";
-
+//hahaha
     function meating($g1, $g2){
         foreach($g1 as $perso1){
             foreach($g2 as $perso2){
